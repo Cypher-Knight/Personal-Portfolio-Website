@@ -1,4 +1,3 @@
-
 "use strict";
 // Sweet Alert CDN through JS
 let script = document.createElement("script");
@@ -10,7 +9,7 @@ document.body.appendChild(script);
 
 let header = $(`
 <nav class="navbar navbar-expand-lg fixed-top dark-theme" id="navbar">
-<a class="navbar-brand" href="index.html"><img src="assets/images/name.png" alt="404 Error" width="382" height="60"></a>
+<a class="navbar-brand" href="index.html"><img src="assets/images/name.png" alt="404 Error" width="382" height="40"></a>
 <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
   <div id="js-hamburger" class="hamburger">
