@@ -52,7 +52,7 @@ const research = [
   },
 
   {
-    title: "GUI Keylogger",
+    title: "Keylogger with GUI",
     authors: "It is a GUI based keylogger assignment that is given as a Internship project from IBM Skillbuild to me.",
     researchYr: 2023,
     image: "assets/images/projects/keylogger.png",
