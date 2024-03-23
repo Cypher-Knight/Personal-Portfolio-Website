@@ -246,7 +246,7 @@ html {
   -webkit-appearance: none;
   position: relative;
   cursor: pointer;
-  width: 100px;
+  width: 70px;
   height: 27px;
   background-image: url(https://i.postimg.cc/857jHw2q/Screenshot-2020-04-16-at-1-07-06-PM.png);
   background-size: cover;
@@ -261,8 +261,8 @@ html {
   position: absolute;
   top: 0;
   left: 0;
-  height: 40px;
-  width: 40px;
+  height: 26px;
+  width: 26px;
   background-color: navy;
   border-radius: 50px;
   transition: all 0.9s;
