@@ -124,7 +124,7 @@ let footer = $(`
     
 
     <div class="rounded-social-buttons tag">
-
+    <p>
     <a class="social-button linkedin" href="https://www.linkedin.com/in/shubham-abhisek/" target="_blank" >
     <!-- svg code for linkedin icon -->
       <svg class="linkedin-icon-footer" xmlns="http://www.w3.org/2000/svg" width="35" viewBox="0 0 24 24" fill="#0e76a8"
@@ -221,7 +221,7 @@ let footer = $(`
     </a>
     </div>
     </div>
-
+    </p>
     <div class="p-1">
     <div class="container-fluid quote-container">
       <p class="tag" >Copyright © 2024. Created by ⚡ Shubham Abhisek (Cypher-Knight) ⚡</p>
